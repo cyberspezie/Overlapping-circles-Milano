@@ -1,0 +1,41 @@
+{
+  "spotifyClientId": "a5ec54d0672e43d68eebec2243db2f27",
+  "spotifyClientSecret": "08b39c41937a41cbb013f51d045ad793",
+  "spotifyScopes": "user-read-currently-playing user-read-recently-played",
+  "spotifyState": "it-can-be-anything",
+  "templates": [
+    "**Song Name:** {{ song_name }}\n**Song URL:** {{ song_link }}\n**Album Name:** {{ album }}\n**Album Release Date:** {{ album_release }}\n**Album URL:** {{ album_link }}\n**Cover:** {{ album_cover_medium }}\n**Cover URL:** {{ album_cover_link_medium }}\n**Artists:** {{ artists }}\n**Added at:** *{{ timestamp }}*",
+    "**Episode Name:** {{ episode_name }}\n**Description:** {{ description }}\n**Added at:** *{{ timestamp }}*"
+  ],
+  "menu": [
+    {
+      "name": "Create file for currently playing episode using template",
+      "enabled": true,
+      "id": "create-file-for-currently-playing-episode-using-template"
+    },
+    {
+      "name": "Create file for currently playing episode",
+      "enabled": true,
+      "id": "create-file-for-currently-playing-episode"
+    },
+    {
+      "name": "Create file for currently playing track using template",
+      "enabled": true,
+      "id": "create-file-for-currently-playing-track-using-template"
+    },
+    {
+      "name": "Create file for currently playing track",
+      "enabled": true,
+      "id": "create-file-for-currently-playing-track"
+    },
+    {
+      "name": "Create file for recently played tracks using template",
+      "enabled": true,
+      "id": "create-file-for-recently-played-tracks-using-template"
+    }
+  ],
+  "defaultDestination": "",
+  "overwrite": false,
+  "autoOpen": false,
+  "appendArtistNames": false
+}

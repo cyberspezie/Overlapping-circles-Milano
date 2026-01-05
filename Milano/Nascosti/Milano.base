@@ -1,0 +1,13 @@
+formulas:
+  "": ""
+properties:
+  note.:
+    displayName: Persone
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - Parent
+      - note.
+    sort: []
