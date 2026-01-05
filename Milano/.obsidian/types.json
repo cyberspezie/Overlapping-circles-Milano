@@ -5,6 +5,7 @@
     "tags": "tags",
     "Parent": "multitext",
     "": "multitext",
-    "Musica": "multitext"
+    "Musica": "multitext",
+    "Genere": "multitext"
   }
 }

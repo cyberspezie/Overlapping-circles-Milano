@@ -1,5 +1,11 @@
+---
+tags:
+  - sofia
+---
+
 - [[Techno]]
-- [[Hard techno]]
+- [[Hard Techno]]
 - [[House]]
 - [[Tech house]]
+- [[DnB]]
 - 

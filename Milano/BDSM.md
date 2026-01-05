@@ -1,0 +1,3 @@
+**Definizione** è un acronimo per Bondage & Disciplina, Dominazione & Sottomissione, Sadismo & Masochismo, un insieme di pratiche erotiche e relazionali consensuali tra adulti, incentrate su scambi di potere, costrizione, disciplina, dolore/piacere, che si svolgono in contesti privati o durante eventi sociali (feste BDSM o play parties) dove si socializza, si gioca con attrezzature specifiche (come frustini, corde) e si esplorano ruoli di controllo e resa, sempre nel rispetto di regole di sicurezza e consenso (Safe, Sane & Consensual - SSC). 
+
+In Italia la comunità BDSM è abbastanza piccola, i ritrovi sono pochi e Milano è uno centri principali dove trovare eventi e persone.
