@@ -11,6 +11,7 @@ tags:
 
 **Posti** 
 - [[Masada]]
+- [[Q Club]]
 - [[Just cavalli]]
 
 **Eventi**
