@@ -6,9 +6,14 @@ Parent: "[[Musica elettronica]]"
 **Definizione** nato in Germania intorno ai primi anni novanta, la sua caratteristica principale è l'utilizzo di una drum machine con un distorsore in modo tale da generare un'onda quadra con pitch decrescente.
 
 **Posti**
+- [[Tempio del futuro perduto]]
 - [[District 272]]
+- [[Tunnel]]
+- [[DKR]]
+- 
 
 **Eventi**
 - [[Sodoma]]
 - [[Los Locos]]
+- [[Plasma]]
 - 

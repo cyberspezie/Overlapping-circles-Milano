@@ -2,7 +2,7 @@
   "collapse-filter": false,
   "search": "",
   "showTags": false,
-  "showAttachments": false,
+  "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
@@ -11,13 +11,13 @@
       "query": "tag:#sofia",
       "color": {
         "a": 1,
-        "rgb": 9657558
+        "rgb": 4137570
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 0,
+  "textFadeMultiplier": -0.1,
   "nodeSizeMultiplier": 2.14585367838542,
   "lineSizeMultiplier": 1,
   "collapse-forces": true,
@@ -25,6 +25,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.0166486868941822,
-  "close": false
+  "scale": 0.6112107301986589,
+  "close": true
 }

@@ -12,6 +12,9 @@ tags:
 **Posti** 
 - [[Masada]]
 - [[Q Club]]
+- [[Volt]]
+- [[BASE]]
+- [[Company]]
 - [[Just cavalli]]
 
 **Eventi**
