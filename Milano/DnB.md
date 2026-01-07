@@ -11,4 +11,4 @@ tags:
 - [[Leoncavallo]]
 
 **Eventi**
-- [[aaa]]
+- [[]]
