@@ -1,5 +1,5 @@
 ---
-Musica:
+Music:
   - "[[Musica elettronica]]"
   - "[[Tech house]]"
   - "[[House]]"

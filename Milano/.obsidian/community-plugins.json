@@ -1,4 +1,5 @@
 [
   "auto-embed",
-  "extended-graph"
+  "extended-graph",
+  "global-search-and-replace"
 ]

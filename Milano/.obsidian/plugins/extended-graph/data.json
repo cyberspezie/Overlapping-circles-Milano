@@ -1,11 +1,11 @@
 {
   "enableFeatures": {
     "graph": {
-      "auto-enabled": false,
+      "auto-enabled": true,
       "tags": true,
       "properties": false,
       "property-key": false,
-      "links": true,
+      "links": false,
       "linksSameColorAsNode": false,
       "folders": false,
       "imagesFromProperty": false,
@@ -79,36 +79,28 @@
   },
   "additionalProperties": {},
   "backupGraphOptions": {
-    "collapse-filter": false,
+    "collapse-filter": true,
     "search": "",
     "showTags": false,
-    "showAttachments": true,
+    "showAttachments": false,
     "hideUnresolved": false,
     "showOrphans": true,
     "collapse-color-groups": false,
-    "colorGroups": [
-      {
-        "query": "tag:#sofia",
-        "color": {
-          "a": 1,
-          "rgb": 4137570
-        }
-      }
-    ],
+    "colorGroups": [],
     "collapse-display": true,
     "showArrow": false,
-    "textFadeMultiplier": -0.1,
-    "nodeSizeMultiplier": 2.14585367838542,
+    "textFadeMultiplier": 0,
+    "nodeSizeMultiplier": 1,
     "lineSizeMultiplier": 1,
     "collapse-forces": true,
     "centerStrength": 0.518713248970312,
     "repelStrength": 10,
     "linkStrength": 1,
     "linkDistance": 250,
-    "scale": 1.3403369637074043,
+    "scale": 1.9655933890722272,
     "close": true
   },
-  "openInNewTab": false,
+  "openInNewTab": true,
   "canonicalizePropertiesWithDataview": true,
   "states": [
     {
@@ -241,8 +233,8 @@
       "rules": []
     }
   },
-  "colorBasedOnDepth": false,
-  "depthColormap": "rainbow",
+  "colorBasedOnDepth": true,
+  "depthColormap": "magma",
   "currentNode": {
     "useColor": false,
     "color": "#000000",
@@ -291,7 +283,7 @@
   "showOnlyFileName": false,
   "noExtension": false,
   "usePropertiesForName": [],
-  "addBackgroundToName": false,
+  "addBackgroundToName": true,
   "nameVerticalOffset": 0,
   "dynamicVerticalOffset": false,
   "showNamesWhenNeighborHighlighted": true,
@@ -325,7 +317,7 @@
   "ignoreInlineLinks": false,
   "collapseState": true,
   "collapseLegend": true,
-  "resetAfterChanges": false,
+  "resetAfterChanges": true,
   "collapsedSettings": {
     "automation": true,
     "tags": true,
@@ -341,7 +333,7 @@
     "elements-stats": true,
     "names": false,
     "zoom": true,
-    "local-graph": true,
+    "local-graph": false,
     "display": true,
     "filter": true,
     "inputs": true,

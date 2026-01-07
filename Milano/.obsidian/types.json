@@ -6,6 +6,8 @@
     "Parent": "multitext",
     "": "multitext",
     "Musica": "multitext",
-    "Genere": "multitext"
+    "Genere": "multitext",
+    "Posto": "multitext",
+    "Place": "multitext"
   }
 }
